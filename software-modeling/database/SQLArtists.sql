@@ -1,0 +1,21 @@
+INSERT INTO Artist (name, bio, nationality)
+VALUES
+('Ariana Grande', 'American singer and actress', 'American'),
+('Ed Sheeran', 'English singer-songwriter', 'English'),
+('Beyoncé', 'American singer, songwriter, and actress', 'American'),
+('Taylor Swift', 'American singer-songwriter', 'American'),
+('Justin Bieber', 'Canadian singer and songwriter', 'Canadian'),
+('Drake', 'Canadian rapper, singer, and songwriter', 'Canadian'),
+('Rihanna', 'Barbadian singer and actress', 'Barbadian'),
+('The Weeknd', 'Canadian singer, songwriter, and record producer', 'Canadian'),
+('Billie Eilish', 'American singer and songwriter', 'American'),
+('Shawn Mendes', 'Canadian singer-songwriter', 'Canadian'),
+('Katy Perry', 'American singer and songwriter', 'American'),
+('Bruno Mars', 'American singer, songwriter, and record producer', 'American'),
+('Maroon 5', 'American pop rock band', 'American'),
+('Adele', 'English singer-songwriter', 'English'),
+('Post Malone', 'American singer, songwriter, and record producer', 'American'),
+('Imagine Dragons', 'American rock band', 'American'),
+('Sam Smith', 'English singer and songwriter', 'English'),
+('Coldplay', 'British rock band', 'British'),
+('Dua Lipa', 'English singer and songwriter', 'English');
